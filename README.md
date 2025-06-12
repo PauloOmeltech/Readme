@@ -21,7 +21,6 @@ Bem-vindo(a) ao meu perfil!
 ✅ Fome de Aprendizado: Dedico horas diárias para evoluir minhas habilidades e acompanhar as melhores práticas.<br>
 ✅ Comprometimento: Entregar resultados com qualidade é minha prioridade, mesmo em projetos simples.<br>
 ✅ Adaptabilidade: Aprendo rápido e estou pronto para novos desafios.<br>
-✅ Colaboração: Adoro trabalhar em equipe e contribuir com ideias.<br>
 <br>
 <br>
 📫 Vamos Conversar!<br><br>
