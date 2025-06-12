@@ -1,8 +1,11 @@
 # 👋 Olá, eu sou o Paulo Omeltech!
 🌟 <b>Estudante de Desenvolvimento Web | Futuro Full-Stack Developer </b> <br><br>
-Bem-vindo(a) ao meu perfil! 
+Bem-vindo(a) ao meu perfil!
 
-<b>Tecnologias que estou aprendendo e aplicando:</b><br>Front-End: HTML, CSS, JavaScript
+<b>Tecnologias que estou aprendendo e aplicando:</b><br>Front-End: HTML, CSS, Javascript<br>
+<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <br>
 <br>
 🛠️ <b>Ferramentas:</b><br>GitHub, VS Code <br><br>
